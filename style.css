@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: white;
+
+}
+
+h1:hover{
+    background-color: brown;
+    color: white;
+}
+
+p{
+    font-size: 40px;
+}
+
