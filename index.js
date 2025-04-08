@@ -1,5 +1,6 @@
 alert ("Primeiro Contato com JavaScript!");
 alert (5+5);
+prompt ("Primeiro Prompt de digitação:");
 
 document.getElementById("texto").innerHTML="Escrevendo Usando <b>JavaScript!</b>";
 
